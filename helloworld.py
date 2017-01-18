@@ -7,7 +7,3 @@ Program print 'hello world' and exits
 '''
 
 print('hello world')
-exit
-
-
-
